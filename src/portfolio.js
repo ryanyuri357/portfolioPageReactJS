@@ -12,7 +12,7 @@ const greeting = {
   username: "Ryan Pinto",
   title: "Hi, I'm Ryan",
   subTitle: emoji(
-    "Full Stack Software Developer 🚀 focused on creating Mobile/Web applications and the Software Development Lifecycle"
+    "Full Stack Software Developer 🚀 focused on Mobile/Web Application Development and the Software Development Lifecycle"
   ),
   resumeLink:
     "https://docs.google.com/document/d/1otND4jWl-zIJixtA0wiwe6DgcYiiZOYc2OrjZLngJ8U/edit?usp=sharing",
