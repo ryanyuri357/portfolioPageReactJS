@@ -259,7 +259,7 @@ const bigProjects = {
         //  you can add extra buttons here.
         {
           name: "Coming Soon",
-          url: "fa"
+          url: "https://docs.google.com/document/d/10hw-R7X6mOCxaglgqnhsopJScTBPHagAYj83x9DgsKE/edit?usp=sharing"
         }
       ]
     }
