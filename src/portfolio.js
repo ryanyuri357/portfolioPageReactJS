@@ -238,11 +238,11 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit GitHub",
-          url: "https://yahoo.com"
+          url: "https://github.com/ryanyuri357/AmazonX"
         },
         {
           name: "Visit Demo",
-          url: "https://yahoo.com"
+          url: "https://amazonxdemo.netlify.app"
         }
       ]
     },
@@ -254,11 +254,11 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit GitHub",
-          url: "fa"
+          url: "https://docs.google.com/document/d/10hw-R7X6mOCxaglgqnhsopJScTBPHagAYj83x9DgsKE/edit?usp=sharing"
         },
         //  you can add extra buttons here.
         {
-          name: "Coming Soon",
+          name: "Visit Demo",
           url: "https://docs.google.com/document/d/10hw-R7X6mOCxaglgqnhsopJScTBPHagAYj83x9DgsKE/edit?usp=sharing"
         }
       ]
