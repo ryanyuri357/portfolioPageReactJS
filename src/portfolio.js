@@ -158,7 +158,7 @@ const workExperiences = {
         "Managing MS SQL Server based Legal Firm systems: ProLaw, iManage",
         "MS Windows Server domain environment support",
         "MS Exchange/Office 365 email support",
-        "Pantera VOIP phone system management",
+        "PanTerra VOIP phone system management",
         "Sophos firewall management"
       ]
     },
@@ -175,7 +175,7 @@ const workExperiences = {
         "MS Windows Server domain environment support",
         "Azure Cloud domain environment support",
         "MS Exchange/Office 365 email support",
-        "VOIP phone support",
+        "VOIP phone system support",
         "Fortinet Firewall management"
       ]
 
@@ -190,7 +190,7 @@ const workExperiences = {
       descBullets: [
         "MS Windows Server domain environment support",
         "MS Exchange/Office 365 email support",
-        "VOIP phone support"
+        "VOIP phone system support"
 
       ]
 
