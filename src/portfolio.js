@@ -15,7 +15,7 @@ const greeting = {
     "Full Stack Software Developer 🚀 focused on Mobile/Web Application Development and the Software Development Lifecycle"
   ),
   resumeLink:
-    "https://docs.google.com/document/d/1otND4jWl-zIJixtA0wiwe6DgcYiiZOYc2OrjZLngJ8U/edit?usp=sharing",
+    "https://www.dropbox.com/s/irtcewlznsskabw/Software-Engineer-Sundevil-Ryan%201.pdf?dl=0",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
