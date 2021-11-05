@@ -249,7 +249,7 @@ const bigProjects = {
     {
       image: require("./assets/images/sn11.jpg"),
       projectName: "Action Video",
-      projectDesc: "Restful video store rental API using MongoDB for managing movies, genres, customers and rentals + authentication (JWT).",
+      projectDesc: "Video store rental API for managing movies, genres, customers and rentals + authentication (JWT).",
       // projectBody: "Unity, C#",
       footerLink: [
         {
