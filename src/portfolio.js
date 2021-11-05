@@ -217,7 +217,7 @@ const bigProjects = {
     {
       image: require("./assets/images/cookingVector.jpg"),
       projectName: "Forkify",
-      projectDesc: "JavaScript/CSS/HTML recipe app that allows users to search, bookmark and add cooking recipes.",
+      projectDesc: "Digital cookbook app that allows users to search, bookmark and add cooking recipes.",
       // projectBody: "Unity, C#",
       footerLink: [
         {
