@@ -101,7 +101,7 @@ const educationInfo = {
       logo: require("./assets/images/asuLogo2.png"),
       subHeader: "Bachelor of Science in Software Engineering",
       duration: "December 2019",
-      desc: "Senior Capstone: Inquiry Oriented Linear Algebra",
+      desc: "Senior Capstone: Inquiry Oriented Linear Algebra - Linear Algebra Skills Game",
       descBullets: [
         "National Mathematics Foundation Grant",
         "Software Development: Agile/Scrum",
