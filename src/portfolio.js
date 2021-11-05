@@ -234,7 +234,7 @@ const bigProjects = {
     {
       image: require("./assets/images/amazon-icon.png"),
       projectName: "AmazonX",
-      projectDesc: "Mock Amazon shopping app using React with Firebase backend/Google authentication.",
+      projectDesc: "Mock Amazon shopping app using React with Google Firebase' Firestore, Authentication.",
       footerLink: [
         {
           name: "Visit GitHub",
