@@ -15,7 +15,7 @@ const greeting = {
     "Full Stack Software Developer 🚀 focused on Mobile/Web Application Development and the Software Development Lifecycle"
   ),
   resumeLink:
-    "https://www.dropbox.com/s/irtcewlznsskabw/Software-Engineer-Sundevil-Ryan%201.pdf?dl=0gitgit r",
+    "https://www.dropbox.com/s/hb0xfx2t6vomvnk/Ryan%20Pinto%20Software%20Engineer%202021.pdf?dl=0",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -38,7 +38,7 @@ const skillsSection = {
       "⚡ Interactive Front end / User Interfaces using React"
     ),
     emoji("⚡ Efficient Back end Development with Node.js + Express"),
-    emoji("⚡ Redux State Management"),
+    emoji("⚡ Unit + Integration Testing, Test Driven Development"),
     emoji(
       "⚡ SQL and non-SQL Databases such as Firebase and MongoDB"
     ),
