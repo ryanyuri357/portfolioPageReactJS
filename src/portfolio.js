@@ -247,19 +247,19 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/sN9.jpg"),
-      projectName: "The Social Network",
-      projectDesc: "Mock social network built using React front end, Redux state management, Node.js + Express back end with MongoDB.",
+      image: require("./assets/images/sn11.jpg"),
+      projectName: "Action Video",
+      projectDesc: "Restful video store rental API using MongoDB for managing movies, genres, customers and rentals + authentication (JWT).",
       // projectBody: "Unity, C#",
       footerLink: [
         {
           name: "Visit GitHub",
-          url: "https://docs.google.com/document/d/10hw-R7X6mOCxaglgqnhsopJScTBPHagAYj83x9DgsKE/edit?usp=sharing"
+          url: "https://github.com/ryanyuri357/actionvideo"
         },
         //  you can add extra buttons here.
         {
-          name: "Visit Demo",
-          url: "https://docs.google.com/document/d/10hw-R7X6mOCxaglgqnhsopJScTBPHagAYj83x9DgsKE/edit?usp=sharing"
+          name: "API documentation",
+          url: "https://www.dropbox.com/s/d98iwkx58tvl9qn/Action%20Video%20API%20Documentation.pdf?dl=0"
         }
       ]
     }
