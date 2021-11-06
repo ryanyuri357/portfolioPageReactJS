@@ -40,7 +40,7 @@ const skillsSection = {
     emoji("⚡ Efficient Back end Development with Node.js + Express"),
     emoji("⚡ Unit + Integration Testing, Test Driven Development"),
     emoji(
-      "⚡ SQL and non-SQL Database Integration"
+      "⚡ SQL and noSQL Database Integration"
     ),
     emoji(
         "⚡ Agile/Scrum"
