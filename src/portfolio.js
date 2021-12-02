@@ -15,7 +15,7 @@ const greeting = {
     "Full Stack Software Developer 🚀 focused on Web + Mobile Application Development and the Software Development Lifecycle"
   ),
   resumeLink:
-    "https://www.dropbox.com/s/hb0xfx2t6vomvnk/Ryan%20Pinto%20Software%20Engineer%202021.pdf?dl=0",
+    "https://www.dropbox.com/s/yl5f7g30l0sebbm/Ryan%20Pinto%20IT%20Software%20Engineer%20Dec%202021.pdf?dl=0",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
