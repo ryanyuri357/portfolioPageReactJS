@@ -58,7 +58,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: ".NET",
-      fontAwesomeClassname: "fab fa-contao"
+      fontAwesomeClassname: "far fa-folder"
     },
     {
       skillName: "Node.js",
@@ -72,7 +72,6 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "CSS3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-
     {
       skillName: "React.js",
       fontAwesomeClassname: "fab fa-react"
