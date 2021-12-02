@@ -35,6 +35,7 @@ const skillsSection = {
   subTitle: "Object Oriented Programming with C# and JavaScript ",
   skills: [
     emoji("⚡ ASP.NET Core 6.0"),
+    emoji("⚡ ES6 / ES7"),
     emoji("⚡ Node.js + Express"),
     emoji("⚡ React"),
     // emoji("⚡ Interactive Front end / User Interfaces using React"),
@@ -57,7 +58,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: ".NET",
+      skillName: ".NET Core",
       fontAwesomeClassname: "far fa-folder"
     },
     {
@@ -158,8 +159,7 @@ const workExperiences = {
       descBullets: [
         "Managing MS SQL Server and Cloud based Electronic Medical Records systems: eMDs, eClinicalWorks, AllScripts",
         "Managing MS SQL Server based Legal Firm systems: ProLaw, iManage",
-        "MS Windows Server domain environment support",
-        "MS Exchange/Office 365 email support",
+        "MS Windows Server domain environment + MS Exchange/Office 365/ Azure IT support",
         "PanTerra VOIP phone system management",
         "Sophos firewall management"
       ]
@@ -174,7 +174,7 @@ const workExperiences = {
       descBullets: [
         "ePower Electronic Medical Records system support",
         "LabDaq Laboratory Information Systems server deployment",
-        "MS Windows Server domain environment support",
+        "MS Windows Server domain environment + MS Exchange/Office 365/ Azure IT support",
         "Azure Cloud domain environment support",
         "MS Exchange/Office 365 email support",
         "VOIP phone system support",
@@ -217,51 +217,57 @@ const bigProjects = {
   subtitle: "GITHUB/DEMOs",
   projects: [
     {
-      image: require("./assets/images/cookingVector.jpg"),
-      projectName: "Forkify",
-      projectDesc: "Digital cookbook app that allows users to search, bookmark and add cooking recipes.",
-      // projectBody: "Unity, C#",
+
+      image: require("./assets/images/bookly6.jpg"),
+      projectName: "BOOKLY.com - eCommerce web app",
+      projectDesc: "C# ASP.NET Core 6.0. MVC design pattern, MS SQL. N-tier architecture, " +
+          "Entity Framework Core, ASP.NET Core Identity. Product, user and order management/processing. " +
+          "User checkout with Stripe.",
       footerLink: [
         {
-          name: "Visit GitHub",
-          url: "https://github.com/ryanyuri357/Forkify1.0"
+          name: "GitHub/ReadMe",
+          url: "https://github.com/ryanyuri357/Bookly"
         },
-        //  you can add extra buttons here.
         {
-          name: "Visit Demo",
-          url: "https://forkifiedv1.netlify.app"
+          name: " Demo on Azure",
+          url: "https://booklybooks.azurewebsites.net/"
         }
       ]
     },
     {
-      image: require("./assets/images/amazon-icon.png"),
-      projectName: "AmazonX",
-      projectDesc: "Mock Amazon shopping app using React with Google Firebase' Firestore, Authentication.",
-      footerLink: [
-        {
-          name: "Visit GitHub",
-          url: "https://github.com/ryanyuri357/AmazonX"
-        },
-        {
-          name: "Visit Demo",
-          url: "https://amazonxdemo.netlify.app"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/sn11.jpg"),
-      projectName: "Action Video",
-      projectDesc: "Video store rental API for managing movies, genres, customers and rentals + authentication (JWT).",
+      image: require("./assets/images/actionvideo2.png"),
+      projectName: "ACTION VIDEO - REST movie rental API",
+      projectDesc: "JavaScript/ES6+, Node.js + Express, MongoDB. Manage movies, rentals, returns, users, customers " +
+          "and genres. Authentication with JWT and user authorization. Unit + Integration testing " +
+          "with Jest framework.",
       // projectBody: "Unity, C#",
       footerLink: [
         {
-          name: "Visit GitHub",
+          name: "GitHub/ReadMe",
           url: "https://github.com/ryanyuri357/actionvideo"
         },
         //  you can add extra buttons here.
         {
           name: "API documentation",
           url: "https://www.dropbox.com/s/d98iwkx58tvl9qn/Action%20Video%20API%20Documentation.pdf?dl=0"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/forked123.png"),
+      projectName: "FORKIFY - eCookbook web app",
+      projectDesc: "Javascript/ES6+ SPA. MVC Design Pattern.  Search over 1 million recipes from public API. Adjust servings, bookmark recipes using " +
+          "local storage and upload private recipes using API developer key.",
+      // projectBody: "Unity, C#",
+      footerLink: [
+        {
+          name: "GitHub/ReadMe",
+          url: "https://github.com/ryanyuri357/Forkify1.0"
+        },
+        //  you can add extra buttons here.
+        {
+          name: "Demo on Netlify",
+          url: "https://forkifiedv1.netlify.app"
         }
       ]
     }
