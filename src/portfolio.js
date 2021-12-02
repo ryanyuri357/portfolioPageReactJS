@@ -12,7 +12,7 @@ const greeting = {
   username: "Ryan Pinto",
   title: "Hi, I'm Ryan",
   subTitle: emoji(
-    "Full Stack Software Developer 🚀 focused on Mobile/Web Application Development and the Software Development Lifecycle"
+    "Full Stack Software Developer 🚀 focused on Web + Mobile Application Development and the Software Development Lifecycle"
   ),
   resumeLink:
     "https://www.dropbox.com/s/hb0xfx2t6vomvnk/Ryan%20Pinto%20Software%20Engineer%202021.pdf?dl=0",
@@ -32,59 +32,61 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "JAVASCRIPT BASED FULL STACK DEVELOPMENT",
+  subTitle: "Object Oriented Programming with C# and JavaScript ",
   skills: [
-    emoji(
-      "⚡ Interactive Front end / User Interfaces using React"
-    ),
-    emoji("⚡ Efficient Back end Development with Node.js + Express"),
+    emoji("⚡ ASP.NET Core 6.0"),
+    emoji("⚡ Node.js + Express"),
+    emoji("⚡ React"),
+    // emoji("⚡ Interactive Front end / User Interfaces using React"),
     emoji("⚡ Unit + Integration Testing, Test Driven Development"),
-    emoji(
-      "⚡ SQL + noSQL Database Integration"
-    ),
-    emoji(
-        "⚡ Agile/Scrum"
-    )
+    emoji("⚡ MS SQL + noSQL Database Integration"),
+    emoji("⚡ Agile/Scrum")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
+
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "C#",
+      fontAwesomeClassname: "fab fa-contao"
     },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: ".NET",
+      fontAwesomeClassname: "fab fa-contao"
     },
     {
-      skillName: "nodejs",
+      skillName: "Node.js",
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "HTML5",
+      fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "sql database",
+      skillName: "CSS3",
+      fontAwesomeClassname: "fab fa-css3-alt"
+    },
+
+    {
+      skillName: "React.js",
+      fontAwesomeClassname: "fab fa-react"
+    },
+    {
+      skillName: "MS SQL",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "firebase",
+      skillName: "Firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
     {
-      skillName: "mongoDB",
+      skillName: "MongoDB",
       fontAwesomeClassname: "fab fa-envira"
     }
   ],
