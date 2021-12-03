@@ -153,7 +153,7 @@ const workExperiences = {
       role: "Systems Administrator",
       company: "Wolff Logics",
       companylogo: require("./assets/images/WL2.png"),
-      date: "2019 – Present",
+      date: "2019 – OCt 2021",
       desc:
         "IT Managed Services Provider",
       descBullets: [
