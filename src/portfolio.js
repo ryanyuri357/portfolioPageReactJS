@@ -157,9 +157,9 @@ const workExperiences = {
       desc:
         "IT Managed Services Provider",
       descBullets: [
-        "Managing MS SQL Server and Cloud based Electronic Medical Records systems: eMDs, eClinicalWorks, AllScripts",
-        "Managing MS SQL Server based Legal Firm systems: ProLaw, iManage",
-        "MS Windows Server domain environment + MS Exchange/Office 365/ Azure IT support",
+        "Multi-site electronic health records system management (AllScripts, eClinicalWorks, eMDs, Office Practicum) – SQL/Cloud",
+        "Legal practice software management (ProLaw, iManage) – SQL",
+        "MS Windows Server domain environment with MS Exchange/Office 365/Azure IT support",
         "PanTerra VOIP phone system management",
         "Sophos firewall management"
       ]
@@ -172,13 +172,13 @@ const workExperiences = {
       desc:
         "IT Managed Services Provider",
       descBullets: [
-        "ePower Electronic Medical Records system support",
-        "LabDaq Laboratory Information Systems server deployment",
-        "MS Windows Server domain environment + MS Exchange/Office 365/ Azure IT support",
-        "Azure Cloud domain environment support",
+        "Multi-site ePower electronic health records system support – SQL",
+        "LabDaq laboratory information systems server + multi-site deployment with instrumentation project",
+        "MS Windows Server domain environment with MS Exchange/Office 365/Azure IT support",
+        "VOIP phone system support",
         "MS Exchange/Office 365 email support",
         "VOIP phone system support",
-        "Fortinet Firewall management"
+        "Fortinet firewall management"
       ]
 
     },
@@ -190,10 +190,8 @@ const workExperiences = {
       desc:
         "IT Managed Services Provider",
       descBullets: [
-        "MS Windows Server domain environment support",
-        "MS Exchange/Office 365 email support",
-        "VOIP phone system support"
-
+        "MS Windows Server domain environment with MS Exchange/Office 365 IT support",
+        "VOIP phone system support",
       ]
 
     }
