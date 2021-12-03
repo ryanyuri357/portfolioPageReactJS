@@ -237,7 +237,7 @@ const bigProjects = {
     {
       image: require("./assets/images/actionvideo2.png"),
       projectName: "ACTION VIDEO - REST movie rental API",
-      projectDesc: "JavaScript/ES6+, Node.js + Express, MongoDB. Manage movies, rentals, returns, users, customers " +
+      projectDesc: "Node.js + Express, MongoDB. Manage movies, rentals, returns, users, customers " +
           "and genres. Authentication with JWT and user authorization. Unit + Integration testing " +
           "with Jest framework.",
       // projectBody: "Unity, C#",
